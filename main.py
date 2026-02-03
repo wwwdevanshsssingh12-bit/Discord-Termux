@@ -4,7 +4,7 @@ from discord import app_commands
 import datetime
 
 # --- CONFIGURATION ---
-TOKEN = 'YOUR_BOT_TOKEN_HERE'  # Replace with your actual bot token
+TOKEN = 'MTQ1OTQ0MDk1NzIwNzM0NzM1Mg.GTS14n.286Wl1Qr1cH5RhR3ieLn1uRHv2tvzM5Wufyprk'  # Replace with your actual bot token
 VERIFICATION_LINK = "https://your-verification-site.com" # Replace with your link
 GUILD_ID = 123456789012345678  # Replace with your Server (Guild) ID for faster command syncing
 
